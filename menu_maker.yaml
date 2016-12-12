@@ -1,0 +1,15 @@
+name: menu_maker
+
+author: Douglas Bluff
+
+version: 1.0
+
+desc: Plugin to add menu items to the top nav
+
+info_url: https://github.com/AustinCommunityCollege/
+
+config_url: /plugins/menu_maker/pages/setup.php
+
+category: User interface
+
+default_priority: 500
